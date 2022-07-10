@@ -12,7 +12,7 @@ header {
   text-align: center;
 }
 
-#calculadora{
+#calculator{
   margin: 0px auto;
   margin-top: 20px;
   display: flex;
@@ -22,11 +22,11 @@ header {
   width: 275px;
   height: 500px;
   border: 1px solid black;
-  border-radius: 35px;
+  border-radius: 45px;
   background-color: black;
 }
 
-#pantalla_v{
+#screen{
   align-self: center;
   background-color: black;
   width: 90%;
@@ -38,14 +38,14 @@ header {
   border-radius: 35px;
 }
 
-#botones_v{
+#buttons{
   display: flex;
   flex-wrap: wrap;
   background-color: black;
   border-radius: 35px;
 }
 
-.botonv{
+.button{
   width: 55px;
   height: 55px;
   margin: 3px;
@@ -58,21 +58,21 @@ header {
   cursor: pointer;
 }
 
-.cero{
+.zero{
   width: 122px;
 }
 
-.gris{
+.gray{
   color: black;
   background-color: var(--gray-color);
 }
 
-.plomo{
+.lead{
   color: white;
   background-color: var(--lead-color);
 }
 
-.naranja{
+.orange{
   color: white;
   background-color: var(--orange-color);
   font-size: 24pt;

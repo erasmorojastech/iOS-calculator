@@ -4,7 +4,7 @@ This repository contains my solution to the calculator project from The Odin Pro
 ## Design
 In this project, I'll be doing an iOS 12 iPhone Calculator.
 
-![Landing Page - The Odin Project](assets/design.png.png)
+![iOS Calculator](assets/design.png)
 
 ## Technologies
 This project is created using:
