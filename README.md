@@ -13,4 +13,5 @@ This project is created using:
 * JavaScript
 
 ## Project status
+Here is a [live preview](https://erasmorojastech.github.io/iOS-calculator/) of the project.  
 In process...
