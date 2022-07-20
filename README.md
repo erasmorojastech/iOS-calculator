@@ -1,4 +1,4 @@
-# Project: Landing page
+# Project: Calculator
 This repository contains my solution to the calculator project from The Odin Project.
 
 ## Design
